@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Umut</h1>
 <h3 align="center">I am Junior Ios Developer  and Web Developer</h3>
 
-- 💬 Ask me about **HTML5 CSS3 Javascript**
+- 💬 Ask me about **Swift HTML5 CSS3 Javascript**
 
 - 📫 How to reach me **umutyksl3778@gmail.com**
 
