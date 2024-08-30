@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Umut</h1>
-<h3 align="center">I am a Junior Web Developer</h3>
+<h3 align="center">I am Junior Ios Developer  and Web Developer</h3>
 
 - 💬 Ask me about **HTML5 CSS3 Javascript**
 
